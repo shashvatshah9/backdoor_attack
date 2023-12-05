@@ -27,4 +27,4 @@ told you what the backdoor looks like. That is, we give you the validation data,
 also test data with examples of clean and backdoored inputs.
 
 ## The repo contains a jupyter notebook which bad_net.ipynb 
-It contains all the code needed to replicate the experiment
+It contains all the code needed to replicate the experiment. Also the folder `models` contains all the models which were saved after pruning the badnet.
