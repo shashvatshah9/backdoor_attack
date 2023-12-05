@@ -1,4 +1,9 @@
 # Backdoor Attack
+
+
+## The repo contains a jupyter notebook which bad_net.ipynb 
+It contains all the code needed to replicate the experiment. Also the folder `models` contains all the models which were saved after pruning the badnet.
+
 ## Requirements
 
 You must do the project individually. In this HW you will design a backdoor detector for
@@ -25,6 +30,3 @@ will output N+1. Evaluat this defense on:
 1. A BadNet, B 1 , (“sunglasses backdoor”) on YouTube Face for which we have already
 told you what the backdoor looks like. That is, we give you the validation data, and
 also test data with examples of clean and backdoored inputs.
-
-## The repo contains a jupyter notebook which bad_net.ipynb 
-It contains all the code needed to replicate the experiment. Also the folder `models` contains all the models which were saved after pruning the badnet.
