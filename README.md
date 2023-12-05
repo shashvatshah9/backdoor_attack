@@ -2,7 +2,7 @@
 
 
 ## The repo contains a jupyter notebook which bad_net.ipynb 
-It contains all the code needed to replicate the experiment. Also the folder `models` contains all the models which were saved after pruning the badnet.
+It contains all the code needed to replicate the experiment. Also the folder `models` contains all the models which were saved after pruning the badnet. These can be used to run on the eval.py file to calculate the accuracy.
 
 ## Requirements
 
